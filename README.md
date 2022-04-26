@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidanwobrien
 - 👀 I’m interested in the impacts of technology on nature, politics and society. I also like music and writing 🎹 🖊️
-- 🌱 I’m currently learning Python, RStudio, QGIS, and building a blog from the ground up using Jekyll(Ruby). Sometimes I make visualizers with Pygame 💥
-- 💞️ I’m looking to collaborate on a web-scraping program and database creation for environmental data in Ontario.
+- 🌱 I work primarily in QGIS, Python (pandas, pyqgis, geopandas), R and Jupytr Notebook. Sometimes I make audio-responsive visualizers with Pygame💥
+- 💞️ I’m looking to collaborate on web-scraping programs and database creation for environmental data in Ontario.
 - 📫 You can email me at aidan.w.obrien@gmail.com or throw me a message on Twitter @ecoaidan.
 
 <!---
