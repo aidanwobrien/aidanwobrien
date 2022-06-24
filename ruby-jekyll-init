@@ -1,6 +1,0 @@
-# I run this in terminal to set up the right ruby version and gems to run Jekyll
-
-echo "ruby-2.7.2-p137" > ~/.ruby-version
-source ~/.zshrc # or ~/.bashrc
-
-# be sure to cd to ~website directory
